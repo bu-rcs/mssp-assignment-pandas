@@ -1,4 +1,4 @@
-,CustomerID,NumberOfPurchases,TotalPurchaseAmount
-0,10001,15,4000
-1,10002,27,2000
-2,10003,34,4096
+CustomerID,NumberOfPurchases,TotalPurchaseAmount
+10001,15,4000
+10002,27,2000
+10003,34,4096
